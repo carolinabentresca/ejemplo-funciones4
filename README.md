@@ -1,3 +1,3 @@
 # Ejemplo-Promedio
 ### Proyecto Java / Java Application
-### Ejemplo básico de calcular promedio, en una función
+## Ejemplo básico de una función (Calcular Promedio)
